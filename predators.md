@@ -1,4 +1,4 @@
 cars
 weather
 elephants
-hipps
+hippos

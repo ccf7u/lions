@@ -1,1 +1,4 @@
 cars
+weather
+elephants
+hipps

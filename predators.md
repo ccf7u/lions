@@ -1,5 +1,4 @@
 # predators
-
 cars
 weather
 elephants

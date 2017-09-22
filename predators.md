@@ -1,5 +1,5 @@
 # predators
-cars
-weather
-elephants
-hippos
+1. cars
+2. weather
+3. elephants
+4. hippos
